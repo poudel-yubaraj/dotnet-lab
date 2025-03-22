@@ -1,4 +1,4 @@
-# Repository for the lab files and works done durig Lab
+# Repository for the lab files and works done during Lab
 
 ## Table Of Content
 - [Lab1](#lab1)
