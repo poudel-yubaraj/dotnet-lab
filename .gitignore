@@ -1,7 +1,3 @@
-obj/
 .vs/
 bin/
-/obj
-.csproj
-/bin
-/.vs
+obj/
