@@ -5,8 +5,9 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-
+        //program to print Hello and your name in a separate line. 
         Console.WriteLine("hello wrold");
+        Console.WriteLine("Yubaraj Poudel")
         //program to find to swap the two numbers
         Console.WriteLine("Enter the value of a");
         int num1 = Convert.ToInt32(Console.ReadLine());
